@@ -1,1 +1,1 @@
-Print("This is coming from another repo")
+print("This is coming from another repo")
